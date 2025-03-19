@@ -1,0 +1,29 @@
+[33mcommit 246a71dafe116bfb33e69804f9c8942e8cf562fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mteste_branch[m[33m)[m
+Author: PFreiitaz <joao.p.rpdrigues25@aluno.senai.br>
+Date:   Wed Mar 19 19:57:47 2025 -0300
+
+    Branch de Exemplo teste2 e teste4
+
+ teste2.txt | 1 [32m+[m
+ teste4.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
+
+[33mcommit 35a3380b577fe1de671c87ad25527fa217e3d0f4[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: PFreiitaz <joao.p.rpdrigues25@aluno.senai.br>
+Date:   Wed Mar 19 19:36:45 2025 -0300
+
+    Segundo commit de ex
+
+ teste1.txt | 3 [32m+[m[31m--[m
+ teste3.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit fa57ef86a6e788e92dc5382019d913487467aac4[m
+Author: PFreiitaz <joao.p.rpdrigues25@aluno.senai.br>
+Date:   Wed Mar 19 19:09:53 2025 -0300
+
+    Primeiro commit de ex
+
+ teste1.tx  | 4 [32m++++[m
+ teste1.txt | 2 [32m++[m
+ 2 files changed, 6 insertions(+)
